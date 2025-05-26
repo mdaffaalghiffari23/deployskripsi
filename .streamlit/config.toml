@@ -1,0 +1,12 @@
+[server]
+fileWatcherType = "none"
+runOnSave = false
+
+[logger]
+level = "warning"
+
+[client]
+showErrorDetails = false
+
+[theme]
+base = "light"
